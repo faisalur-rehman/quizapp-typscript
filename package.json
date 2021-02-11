@@ -1,4 +1,5 @@
 {
+  "homepage": "http://faisalur-rehman.github.io/quizapp-typscript",
   "name": "quiz-app-with-concentration",
   "version": "0.1.0",
   "private": true,
@@ -10,9 +11,12 @@
     "@types/node": "^12.19.16",
     "@types/react": "^17.0.1",
     "@types/react-dom": "^17.0.0",
+    "@types/styled-components": "^5.1.7",
+    "gh-pages": "^3.1.0",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "react-scripts": "4.0.2",
+    "styled-components": "^5.2.1",
     "typescript": "^4.1.5",
     "web-vitals": "^1.1.0"
   },
@@ -20,7 +24,10 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+  "deploy": "gh-pages -d build"
+
   },
   "eslintConfig": {
     "extends": [
