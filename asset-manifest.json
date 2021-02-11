@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/quizapp-typscript/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/quizapp-typscript/static/js/main.5dcff48a.chunk.js",
+    "main.js.map": "/quizapp-typscript/static/js/main.5dcff48a.chunk.js.map",
+    "runtime-main.js": "/quizapp-typscript/static/js/runtime-main.642711f7.js",
+    "runtime-main.js.map": "/quizapp-typscript/static/js/runtime-main.642711f7.js.map",
+    "static/js/2.7bf3016e.chunk.js": "/quizapp-typscript/static/js/2.7bf3016e.chunk.js",
+    "static/js/2.7bf3016e.chunk.js.map": "/quizapp-typscript/static/js/2.7bf3016e.chunk.js.map",
+    "static/js/3.586ec468.chunk.js": "/quizapp-typscript/static/js/3.586ec468.chunk.js",
+    "static/js/3.586ec468.chunk.js.map": "/quizapp-typscript/static/js/3.586ec468.chunk.js.map",
+    "index.html": "/quizapp-typscript/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/quizapp-typscript/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.7bf3016e.chunk.js.LICENSE.txt": "/quizapp-typscript/static/js/2.7bf3016e.chunk.js.LICENSE.txt",
+    "static/media/nattu-adnan-unsplash.c866d607.jpg": "/quizapp-typscript/static/media/nattu-adnan-unsplash.c866d607.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.642711f7.js",
+    "static/js/2.7bf3016e.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.5dcff48a.chunk.js"
+  ]
+}
